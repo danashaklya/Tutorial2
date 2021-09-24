@@ -4,6 +4,9 @@ function initializeApp() {
 
 }
 
+
+
+//Yolo
 async function displayMeme() {
 
 try{
